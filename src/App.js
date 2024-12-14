@@ -141,7 +141,7 @@ function App() {
     <div className="flex flex-col gap-5 w-screen h-screen bg-gray-100 p-12">
       <div className="flex w-full items-center justify-between">
         <div className="w-full text-center">
-          <p className="text-xl font-medium">Demo Editor by Zicuritech</p>
+          <p className="text-xl font-medium">Demo Editor by Zicuritech RS</p>
         </div>
 
         <button
